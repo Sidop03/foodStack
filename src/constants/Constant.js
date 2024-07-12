@@ -1,0 +1,2 @@
+export const logo = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Ftemplates%2Fs%2Ffood-logo%2F&psig=AOvVaw2-nGPbs19WqdxK-Mn8qoYu&ust=1713355497914000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCyqfPYxoUDFQAAAAAdAAAAABAE";
+export const API_URL= " https://forkify-api.herokuapp.com/api";
